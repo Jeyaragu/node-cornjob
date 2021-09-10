@@ -1,0 +1,21 @@
+{
+  "name": "cornjob",
+  "version": "1.0.0",
+  "description": "Corn JOB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ragu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "easy-soap-request": "^4.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "node-cron": "^3.0.0",
+    "restler": "^3.4.0",
+    "winston": "^3.3.3",
+    "xml-js": "^1.6.11"
+  }
+}
